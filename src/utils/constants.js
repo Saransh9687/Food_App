@@ -1,0 +1,1 @@
+export const LOGO_URL = "https://template.canva.com/EAGXsRURT9o/1/0/1600w-JrzZUwc_CLQ.jpg";
